@@ -1,8 +1,9 @@
 - [ ] CSharp Nedir ?
 - [ ] Microsoft Visual Studio Kurulumu
-- [ ] Microsoft Visual Studio Kullanýmý
-- [ ] Ilk Programýmýz (Merhaba Dünya) 
-> - Using Nedir   
-> - Namespace Nedir 
-> - Main Fonksiyonu 
+- [ ] Microsoft Visual Studio KullanÄ±mÄ±
+- [ ] Ilk ProgramÄ±mÄ±z (Merhaba DÃ¼nya) <br/>Using Nedir <br/>Namespace Nedir <br/>Main Fonksiyonu
 - [ ] 
+
+### Kaynaklar
+- [C Sharp Programlama Dili](https://tr.wikibooks.org/wiki/C_Sharp_Programlama_Dili)
+- [C Sharp Nedir](http://www.teknokoliker.com/2011/11/c-nedir-c-temelleri-nelerdir.html)
