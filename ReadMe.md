@@ -2,7 +2,7 @@
 - [ ] Microsoft Visual Studio Kurulumu
 - [ ] Microsoft Visual Studio Kullanımı
 - [ ] Ilk Programımız (Merhaba Dünya) <br/>Using Nedir <br/>Namespace Nedir <br/>Main Fonksiyonu
-- [ ] Değişkenler
+- [ ] 
 
 ### Kaynaklar
 - [C Sharp Programlama Dili](https://tr.wikibooks.org/wiki/C_Sharp_Programlama_Dili)
