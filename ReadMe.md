@@ -7,6 +7,7 @@
 - [ ] Operatörler
 - [ ] Akış Kontrol Mekanizmaları
 - [ ] Rastgele Sayı Üretme
+- [ ] 
 
 ### Kaynaklar
 - [C Sharp Programlama Dili](https://tr.wikibooks.org/wiki/C_Sharp_Programlama_Dili)
