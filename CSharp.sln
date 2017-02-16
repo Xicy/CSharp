@@ -21,9 +21,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Degiskenler", "Degiskenler\2.Degiskenler.csproj", "{8A90662C-13B6-41C2-AE40-392B451BFED1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Degiskenler", "2.Degiskenler\2.Degiskenler.csproj", "{8A90662C-13B6-41C2-AE40-392B451BFED1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.IlkProgramimiz", "IlkProgramimiz\1.IlkProgramimiz.csproj", "{EE786848-BFFC-4DFB-BE16-854373195C8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.IlkProgramimiz", "1.IlkProgramimiz\1.IlkProgramimiz.csproj", "{EE786848-BFFC-4DFB-BE16-854373195C8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
