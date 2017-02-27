@@ -1,5 +1,4 @@
 - [ ] CSharp Nedir ?
-- [ ] Microsoft Visual Studio Kurulumu
 - [ ] Microsoft Visual Studio Kullanımı
 - [ ] Ilk Programımız (Merhaba Dünya)
 - [ ] Değişkenler
@@ -10,15 +9,7 @@
 - [ ] -Diziler
 - [ ] -Metotlar
 - [ ] -Sınıflar
-- [ ] -Operatör Aşırı Yükleme
-- [ ] -İndeksleyiciler
-- [ ] -Yapılar
-- [ ] -Enum Sabitleri
-- [ ] -Temel I/O Işlemleri
-- [ ] -Kalıtım
-- [ ] -Arayüzler
-- [ ] -Partial (Kısmi) Tipler
-- [ ] -İstisnai Durum Yakalama Mekanizması
+- [ ] Bitirme Projesi (Kitaplık Uygulaması)
 
 ### Kaynaklar
 - [C Sharp Programlama Dili](https://tr.wikibooks.org/wiki/C_Sharp_Programlama_Dili)

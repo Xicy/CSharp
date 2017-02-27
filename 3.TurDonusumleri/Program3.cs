@@ -6,7 +6,7 @@ namespace TurDonusumleri
     {
         static void Main()
         {
-            int i = 256;
+            int i = 257;
             int a = 300;
             byte b, c;
             checked

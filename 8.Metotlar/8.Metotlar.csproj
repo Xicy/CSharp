@@ -4,13 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BB560935-B0C7-4E09-A8B1-1A8E2EF1D229}</ProjectGuid>
+    <ProjectGuid>{8E623C31-DD13-4D45-B962-5BCF2E2F9915}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RastgeleSayiUretme</RootNamespace>
-    <AssemblyName>RastgeleSayiUretme</AssemblyName>
+    <RootNamespace>Metotlar</RootNamespace>
+    <AssemblyName>Metotlar</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -33,12 +32,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>RastgeleSayiUretme.Program1</StartupObject>
+    <StartupObject>Metotlar.Program1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Program7.cs" />
+    <Compile Include="Program6.cs" />
+    <Compile Include="Program5.cs" />
+    <Compile Include="Program4.cs" />
+    <Compile Include="Program3.cs" />
+    <Compile Include="Program2.cs" />
     <Compile Include="Program1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
