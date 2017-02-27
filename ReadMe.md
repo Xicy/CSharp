@@ -6,9 +6,9 @@
 - [ ] Operatörler
 - [ ] Akış Kontrol Mekanizmaları
 - [ ] Rastgele Sayı Üretme
-- [ ] -Diziler
-- [ ] -Metotlar
-- [ ] -Sınıflar
+- [ ] Diziler
+- [ ] Metotlar
+- [ ] Sınıflar
 - [ ] Bitirme Projesi (Kitaplık Uygulaması)
 
 ### Kaynaklar
