@@ -3,9 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.25920.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp Hakkında", "CSharp Hakkında", "{A89F5030-7604-4EBB-AE57-BA29B2C08EF3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.CSharp Hakkında", "0.CSharp Hakkında", "{A89F5030-7604-4EBB-AE57-BA29B2C08EF3}"
 	ProjectSection(SolutionItems) = preProject
-		CSharp Hakkında\CSharp Nedir.md = CSharp Hakkında\CSharp Nedir.md
 		CSharp Hakkında\CSharp.png = CSharp Hakkında\CSharp.png
 		CSharp Hakkında\CSharpAsp.jpg = CSharp Hakkında\CSharpAsp.jpg
 		CSharp Hakkında\CSharpConverting.png = CSharp Hakkında\CSharpConverting.png
@@ -14,6 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp Hakkında", "CSharp 
 		CSharp Hakkında\CSharpHelloWorld.jpg = CSharp Hakkında\CSharpHelloWorld.jpg
 		CSharp Hakkında\CSharpMobile.jpg = CSharp Hakkında\CSharpMobile.jpg
 		CSharp Hakkında\CSharpSOAP.png = CSharp Hakkında\CSharpSOAP.png
+		CSharp Hakkında\ReadMe.md = CSharp Hakkında\ReadMe.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C83A0AE5-2B34-4567-B226-AD41E0DB2251}"
