@@ -12,6 +12,20 @@ namespace AkisKontrolMekanizmalari
         /// </summary>
         static void Main()
         {
+            char deger;
+            deger = (char)Console.Read();
+            if (deger == 'k')
+            {
+                Console.WriteLine("Kadın");
+            }
+            else if (deger == 'e')
+            {
+                Console.WriteLine("Erkek");
+            }
+            else
+            {
+                Console.WriteLine("Lütfen Tekrar Giriniz");
+            }
             Console.ReadLine();
         }
     }

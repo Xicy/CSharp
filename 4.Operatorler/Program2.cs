@@ -48,7 +48,7 @@ namespace Operatorler
 
             b = (byte)(a ^ b);
             //128 64 32 16 8 4 2 1
-            // 0  0  0  0  0 0 0 1
+            // 0  0  0  0  0 0 0 0
 
         }
     }

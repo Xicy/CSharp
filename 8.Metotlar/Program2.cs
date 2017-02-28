@@ -6,14 +6,16 @@ namespace Metotlar
     {
         static void Main()
         {
-            //Program1 Topla Cek
-            //Yazdır Classını kullan
+            
+            Yazdır yaz = new Yazdır();
+            //yaz.Yaz("Merhaba");
+            Console.ReadLine();
         }
     }
 
-    class Yazdır
+     class Yazdır
     {
-        public void Yaz(string metin)
+        public static void Yaz(string metin)
         {
             Console.WriteLine(metin);
         }

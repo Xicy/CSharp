@@ -6,16 +6,16 @@ namespace AkisKontrolMekanizmalari
     {
         static void Main()
         {
-            int i = 6;
+            /*int i = 6;
             while (i > 5)
             {
                 i = int.Parse(Console.ReadLine());
                 Console.WriteLine(i);
             }
             Console.WriteLine("Bitti");
-            Console.ReadLine();
+            Console.ReadLine();*/
 
-
+            int i;
             Console.WriteLine("100 ile 0 arasında sayı girin");
             do
             {

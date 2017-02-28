@@ -6,7 +6,7 @@ namespace AkisKontrolMekanizmalari
     {
         static void Main()
         {
-            if (true)
+            if (false)
             {
                 Console.WriteLine("TRUE");
             }

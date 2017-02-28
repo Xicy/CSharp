@@ -12,6 +12,7 @@
         {
             // Console sınıfı içerisindeki Writeline() fonksiyonu çalıştırılır
             System.Console.WriteLine("Merhaba Dünya");
+            System.Console.Read();
         }
     }
 }

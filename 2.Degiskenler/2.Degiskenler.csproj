@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Degiskenler.Program1</StartupObject>
+    <StartupObject>Degiskenler.Program2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

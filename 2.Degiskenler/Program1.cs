@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices.WindowsRuntime;
 
 namespace Degiskenler
 {
@@ -63,7 +64,7 @@ namespace Degiskenler
             int a, b, c = 1;
 
             const int d = 5;
-
+            
             string escapeString = "\"escape karakteri nasıl kullanılır\"";
             string escapeString2 = "C:\\Program Files";
             string escapeString3 = @"C:\Program Files";

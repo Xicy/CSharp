@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IlkProgramimiz.Program1</StartupObject>
+    <StartupObject>IlkProgramimiz.Program3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

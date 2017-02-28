@@ -15,6 +15,7 @@ namespace IlkProgramimiz
             Console.ReadLine();
             // Console sınıfı içerisindeki Writeline() fonksiyonu çalıştırılır
             Console.WriteLine("Entera bastınız!");
+            Console.ReadLine();
         }
     }
 }

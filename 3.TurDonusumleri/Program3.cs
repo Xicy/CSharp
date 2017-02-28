@@ -9,7 +9,7 @@ namespace TurDonusumleri
             int i = 257;
             int a = 300;
             byte b, c;
-            checked
+            unchecked
             {
                 b = (byte)i;
                 c = (byte)a;

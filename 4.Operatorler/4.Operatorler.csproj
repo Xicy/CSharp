@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Operatorler.Program1</StartupObject>
+    <StartupObject>Operatorler.Program2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

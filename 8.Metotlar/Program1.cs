@@ -6,10 +6,15 @@ namespace Metotlar
     {
         static void Main()
         {
-            //STopla deneme
+            int b, c;
+            b = int.Parse(Console.ReadLine());
+            c = int.Parse(Console.ReadLine());
+            int a = Topla(b,c);
+            Console.WriteLine(a);
+            Console.ReadLine();
         }
 
-        int Topla(int a, int b)
+        static int Topla(int a, int b)
         {
             return a + b;
         }

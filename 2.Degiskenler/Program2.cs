@@ -10,6 +10,9 @@ namespace Degiskenler
              * .... metnini yazdınız 
              * şeklinde bastırma 
              */
+           string gelendeger = Console.ReadLine();
+            Console.WriteLine(gelendeger + " metnini yazdınız");
+            Console.ReadLine();
         }
     }
 }

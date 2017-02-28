@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TurDonusumleri.Program3</StartupObject>
+    <StartupObject>TurDonusumleri.Program4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
