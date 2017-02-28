@@ -18,5 +18,5 @@
 ### -
 - [umutakkaya1996@gmail.com](emailto:umutakkaya1996@gmail.com)
 - [Stackoverflow](http://stackoverflow.com/)
-- [Açık Akedemi](https://www.acikakademi.com)
-- [Açık Akedemi Soru-Cevap](https://sorucevap.acikakademi.com)
+- [Açık Akademi](https://www.acikakademi.com)
+- [Açık Akademi Soru-Cevap](https://sorucevap.acikakademi.com)
